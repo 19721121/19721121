@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @19721121
-- 👀 I’m interested in ...야인시대
-- 🌱 I’m currently learning ...심영물 합성 조교
-- 💞️ I’m looking to collaborate on ...심영물제작지원연구회
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://discord.com/channels/608625982659887124/608637133351288842
 
 <!---
